@@ -117,7 +117,7 @@ class ConnectFourApp:
         Changes the GUI once the play button is clicked.
         '''
         if self._game_started:
-            self._root_window.quit()
+            self._root_window.destroy() 
         self._game_started = True
         
         if self._playcount == 0: #only create label once
