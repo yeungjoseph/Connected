@@ -42,9 +42,15 @@ To choose which player makes the first move:
 To move, enter an integer 1-9:
 
 +---+---+---+
+
 | 1 | 2 | 3 |
+
 +---+---+---+
+
 | 4 | 5 | 6 |
+
 +---+---+---+
+
 | 7 | 8 | 9 |
+
 +---+---+---+
