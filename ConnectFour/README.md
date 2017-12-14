@@ -3,9 +3,9 @@ Connect Four GUI
 
 *Game Menu*
 
-![Screenshot of game menu](/screenshots/menu.jpg?raw=true "*Game Menu*")
+![Screenshot of game menu](./screenshots/menu.jpg?raw=true "*Game Menu*")
 
 
 *Gameplay*
 
-![Screenshot of gameplay](/screenshots/ingame.jpg?raw=true "*Gameplay*")
+![Screenshot of gameplay](./screenshots/ingame.jpg?raw=true "*Gameplay*")
