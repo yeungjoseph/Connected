@@ -12,7 +12,7 @@ Screenshots of gameplay
 
 *Game Menu*
 
-![Screenshot of game menu](./screenshots/menu.png?raw=true "*Game Menu*")
+![Screenshot of game menu](./screenshots/home.png?raw=true "*Game Menu*")
 
 *Game settings*
 
